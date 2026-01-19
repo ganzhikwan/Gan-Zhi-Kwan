@@ -28,4 +28,4 @@ I have a strong interest in software development, visual computing, and multimed
 
 <a href="http://www.github.com/ganzhikwan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganzhikwan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ganzhikwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganzhikwan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> can you add a linked link to my linked account https://www.linkedin.com/in/gan-zhi-kwan-38995939b/
+<a href="https://github.com/ganzhikwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganzhikwan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
