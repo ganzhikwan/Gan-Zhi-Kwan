@@ -10,7 +10,7 @@ I have a strong interest in software development, visual computing, and multimed
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [ganzhikwan249@gmail.com](mailto:ganzhikwan249@gmail.com)
-* * 💼  LinkedIn: [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
+* 💼  LinkedIn: [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
 
 
 <p align="left">
