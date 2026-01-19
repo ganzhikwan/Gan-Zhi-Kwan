@@ -29,6 +29,50 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 🧩 Social
 - 💼 **LinkedIn:** [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
 
+ ## 💼 Course Projects
+
+---
+
+### **Technology & Information System ( YEAR I )**
+
+#### 📄 Assignments
+- 🎥 **Industry Visit 1 - UTM Digital**  
+  👉 [View Video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view)
+  ✍️ **Reflection**  
+  👉 [Read Reflection]([#](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/INDUSTRIAL%20VISIT%20video%20%20%3A%20UTM%20Digital.md))
+  
+
+- 🖼️ **Industry Talk 1 - PPG **  
+  👉 [View Poster](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20PPG%20INDUSTRIAL%20TALK.pdf)
+  ✍️ **Reflection**
+  👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20PPG%20Industrial%20Talk%20%20Reflection)
+
+- 🖥️ **PC Assemble**  
+  👉 [View Picture](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/PC%20ASSEMBLE)
+  ✍️ **Reflection**
+  👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/REFLECTION%20OF%20PC%20ASSEMBLE)
+
+- 📑 **Industry Talk 2 - System Development**  
+  👉 [View Report](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Report%20System%20Development.pdf)
+  ✍️ **Reflection**
+  👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Refelction%20of%20Industrial%20%20Talk%20-%20System%20Development)
+  
+- 📰 **Industry Visit 2 - Johor Port Berhad**  
+  👉 [View Newsletter](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20Newsletter.pdf)
+  ✍️ **Reflection**
+  👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Newsletter%20%3A%20JohorPort%20Industrial%20Visit%20Reflection)
+
+- 📂 **Final Year Project (Travel Planner Application)**
+
+    📑 **Report**
+  👉  [View Report](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Design%20Thinking%20Report.pdf)
+    🎥 **Video**
+  👉 [View Video](https://drive.google.com/file/d/1nnZiasxLqnx0gXoJObVv0aJuSMEyaGNg/view?usp=drive_link)
+     🖼️  **Slide**
+  👉 [View Slide](https://drive.google.com/drive/folders/1Z4K_twUboDu72FqUfUK-P3YmAWUzdAkN?usp=drive_link)
+
+
+
 
 
 <p align="left">
