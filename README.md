@@ -24,6 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 🧩 Social
 - 💼 **LinkedIn:** [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
 
+
  ## 💼 Course Projects
 
 ---
@@ -38,7 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 
 
-- 🖼️ **Industry Talk 1 - PPG **  
+- 🖼️ **Industry Talk 1 - PPG**  
      👉 [View Poster](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20PPG%20INDUSTRIAL%20TALK.pdf)
   
   ✍️ **Reflection**
