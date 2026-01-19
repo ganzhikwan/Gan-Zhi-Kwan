@@ -1,16 +1,35 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gan Zhi Kwan
 =====================================================================================================================================
+## 🧠 Core Information
 
-Graphic and multimedia software
--------------------------------
+---
 
-I am currently pursuing a **Degree in Computer Science (Graphic and Multimedia Software)** at **Universiti Teknologi Malaysia (UTM)**.  
-I have a strong interest in software development, visual computing, and multimedia-related technologies.
+### 🎓 Education
+- **Bachelor Degree in Computer Science (Graphic & Multimedia Software)**
+- **Universiti Teknologi Malaysia (UTM)**
 
+---
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [ganzhikwan249@gmail.com](mailto:ganzhikwan249@gmail.com)
-* 💼  LinkedIn: [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
+### 💼 Current Position
+-  **Student in University Teknologi Malaysia**
+
+---
+
+### 🛠️ Technical Skills
+- 💻 **C++**
+- 🧩 **Basic Computer Hardware Knowledge**
+- 🧠 **Visual Studio Code (VS Code)**
+
+---
+
+### 🏅 Certificates
+- 📜 **SPM**
+
+---
+
+### 🧩 Social
+- 💼 **LinkedIn:** [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
+
 
 
 <p align="left">
