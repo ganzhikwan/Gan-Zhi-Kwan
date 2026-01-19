@@ -15,14 +15,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 🛠️ Technical Skills
-- 💻 **C++**
-- 🧠 **Visual Studio Code (VS Code)**
+### 💻 Technical Skills
+-  **C++**
+-  **Visual Studio Code (VS Code)**
 
 ---
 
 ### 🧩 Social
-- 💼 **LinkedIn:** [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
+- **LinkedIn:** [Gan Zhi Kwan](https://www.linkedin.com/in/gan-zhi-kwan-38995939b/)
 
 
  ## 💼 Course Projects
@@ -34,8 +34,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🎥 **Industry Visit 1 - UTM Digital**  
       👉 [View Video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view)
   
-  ✍️ **Reflection**  
-      👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/INDUSTRIAL%20VISIT%20video%20%20%3A%20UTM%20Digital.md)
+  ✍️ **Reflection**
+     👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/INDUSTRIAL%20VISIT%20video%20%20%3A%20UTM%20Digital.md)
  
 ---
 
