@@ -37,7 +37,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   ✍️ **Reflection**  
       👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/INDUSTRIAL%20VISIT%20video%20%20%3A%20UTM%20Digital.md)
  
-
+---
 
 - 🖼️ **Industry Talk 1 - PPG**  
      👉 [View Poster](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20PPG%20INDUSTRIAL%20TALK.pdf)
@@ -45,28 +45,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   ✍️ **Reflection**
      👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20PPG%20Industrial%20Talk%20%20Reflection)
   
-
+---
 - 🖥️ **PC Assemble**  
      👉 [View Picture](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/PC%20ASSEMBLE)
   
   ✍️ **Reflection**
      👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/REFLECTION%20OF%20PC%20ASSEMBLE)
   
-
+---
 - 📑 **Industry Talk 2 - System Development**  
      👉 [View Report](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Report%20System%20Development.pdf)
   
   ✍️ **Reflection**
      👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Refelction%20of%20Industrial%20%20Talk%20-%20System%20Development)
 
-  
+  ---
 - 📰 **Industry Visit 2 - Johor Port Berhad**  
      👉 [View Newsletter](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/TIS%20Newsletter.pdf)
   
   ✍️ **Reflection**
      👉 [Read Reflection](https://github.com/ganzhikwan/Gan-Zhi-Kwan/blob/main/Newsletter%20%3A%20JohorPort%20Industrial%20Visit%20Reflection)
 
-
+---
 - 📂 **Final Year Project (Travel Planner Application)**
 
     📑 **Report**
