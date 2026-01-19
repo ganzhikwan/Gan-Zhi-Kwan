@@ -1,5 +1,3 @@
-https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view?usp=drive_link
-
-Reflection
+Reflection Industrial Visit - UTM Digital
 
 Our tour of UTM Digital provided us with an insightful look at how contemporary software development and digital transformation are carried out in an actual academic environment.Especially motivating was the section on emerging technologies. UTM eCert, with its blockchain foundation, showcased how technology can solve real problems like verification and security.The UTM SMART application was an ideal example of a UCD case study. Seeing how interfaces vary for visitors, students, and lecturers after learning about Profiling Personas made it clear that genuine usability requires a thorough comprehension of the context and requirements of the user.In general, this visit connected theory and practice. It demonstrated that a culture of agility, unwavering user focus, and the fearless adoption of emerging technologies are just as important to the success of digital products as code. It has caused me to consider how crucial it is to prioritize human needs in all technological developments.
